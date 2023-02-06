@@ -1,0 +1,12 @@
+{
+  "name": "log-request",
+  "version": "1.0.0",
+  "description": "Log the received request information",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Steren Giannini steren@google.com",
+  "dependencies": {}
+}
